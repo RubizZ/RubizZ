@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Rubén Hidalgo</h1>
 
 <p align="center">
-  <a href="https://rubizz.github.io/portfolio">
+  <a href="https://www.rubenhidalgo.dev/">
     <img src="https://img.shields.io/badge/🌍_Mi_Portfolio-Visitar_Web-007396?style=for-the-badge&logoColor=white" alt="Portfolio Web">
   </a>
   <a href="https://www.linkedin.com/in/ruben-hidalgo-arias/">
